@@ -1,0 +1,6 @@
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\Kata_Emilio_Trev\bin\Debug\Kata_Emilio_Trev.exe.config
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\Kata_Emilio_Trev\bin\Debug\Kata_Emilio_Trev.exe
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\Kata_Emilio_Trev\bin\Debug\Kata_Emilio_Trev.pdb
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\Kata_Emilio_Trev\obj\Debug\Kata_Emilio_Trev.csproj.CoreCompileInputs.cache
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\Kata_Emilio_Trev\obj\Debug\Kata_Emilio_Trev.exe
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\Kata_Emilio_Trev\obj\Debug\Kata_Emilio_Trev.pdb

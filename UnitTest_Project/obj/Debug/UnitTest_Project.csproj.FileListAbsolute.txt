@@ -1,0 +1,17 @@
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\UnitTest_Project.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\UnitTest_Project.pdb
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\obj\Debug\UnitTest_Project.csprojResolveAssemblyReference.cache
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\obj\Debug\UnitTest_Project.csproj.CoreCompileInputs.cache
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\obj\Debug\UnitTest_Project.csproj.CopyComplete
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\obj\Debug\UnitTest_Project.dll
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\obj\Debug\UnitTest_Project.pdb
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Kata_Emilio_Trev.exe
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Kata_Emilio_Trev.pdb
+C:\Users\Tcrouse\source\repos\Kata_Emilio_Trev\UnitTest_Project\bin\Debug\Kata_Emilio_Trev.exe.config
