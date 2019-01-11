@@ -10,11 +10,19 @@ namespace UnitTest_Project
         public String_Calculator calc = new String_Calculator();
 
         [TestMethod]
-        public void TestMethod1()
+        public void Step1_Successful_Test()
         {
           
             string sweets="";
             Assert.AreEqual(0, calc.TestCalculator(sweets));
+        }
+
+        [TestMethod]
+        public void Step2_Successful_Test()
+        {
+
+            string sweets = "5      ";
+            Assert.AreEqual(5, calc.TestCalculator(sweets));
         }
     }
 }

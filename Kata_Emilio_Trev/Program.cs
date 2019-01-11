@@ -10,16 +10,15 @@ namespace Kata_Emilio_Trev
 
         public int TestCalculator(string input)
         {
-            //input = input.Trim();
             if (input == "")
             {
                 return 0;
             }
             else
             {
-                return 1;   
+                return Convert.ToInt32(input);
             }
-            
+          
 
         }
 
